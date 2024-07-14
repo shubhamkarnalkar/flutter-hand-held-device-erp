@@ -1,7 +1,8 @@
-# hand_held_terminal
+# hand_held_device
 
 Made in [Flutter](https://flutter.dev/)
-As of now only Android support is avaiable.
+
+As of now only working on Android.
 
 ### This Flutter App is based on the MVC architecture:
 
